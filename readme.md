@@ -1,9 +1,4 @@
 # Stock Key Executive Image Scraper
-
-![GitHub](https://img.shields.io/github/license/YourUsername/Stock-Executive-Scraper)
-![GitHub stars](https://img.shields.io/github/stars/YourUsername/Stock-Executive-Scraper)
-![GitHub forks](https://img.shields.io/github/forks/YourUsername/Stock-Executive-Scraper)
-
 ## Overview
 
 Welcome to the Stock Key Executive Image Scraper! This Python application utilizes web scraping techniques with Selenium and BeautifulSoup to fetch images of key executives of various stocks from Google. It helps you automate the process of gathering executive images for your stock analysis or research.
@@ -19,14 +14,27 @@ Welcome to the Stock Key Executive Image Scraper! This Python application utiliz
 Here are some screenshots of the application:
 
 1. **Root Directory**:
-   - The root directory contains folders for each stock symbol, named after their respective symbols.
+    - The root directory contains folders for each stock symbol, named after their respective symbols.
 
-   ![Root Directory](/screenshots/root_directory.png)
+    ![Root Directory](/Images/root_folder.png)
 
 2. **Symbol Subfolder**:
-   - Within each symbol folder, you will find the executive images.
+    - Within each symbol folder, you will find the executive images.
 
-   ![Symbol Subfolder](/screenshots/symbol_subfolder.png)
+    **AAPL**
+    ![Symbol Subfolder](/Images/AAPL.png)
+
+    **GOOG**
+    ![Symbol Subfolder](/Images/GOOG.png)
+
+    **JNJ**
+    ![Symbol Subfolder](/Images/JNJ.png)
+
+    **MSFT**
+    ![Symbol Subfolder](/Images/MSFT.png)
+
+    **NVDA**
+    ![Symbol Subfolder](/Images/NVDA.png)
 
 ## Installation
 
