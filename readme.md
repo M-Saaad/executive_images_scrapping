@@ -41,7 +41,7 @@ Here are some screenshots of the application:
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/YourUsername/Stock-Executive-Scraper.git
+   git clone https://github.com/M-Saaad/executive_images_scrapping.git
    ```
 
 2. Install the required dependencies:
@@ -57,12 +57,12 @@ Here are some screenshots of the application:
 5. Run the scraper:
 
    ```bash
-   python main.py
+   python web-scraper-optimization.py
    ```
 
 ## Usage
 
-- Modify the `symbol_list.txt` file with the stock symbols you want to scrape.
+- Modify the `Data/Unique Symbols with Key Executives.csv` file with the stock symbols you want to scrape.
 - Customize the scraping parameters in the `config.json` file.
 - Run the application to start scraping the executive images.
 
@@ -81,8 +81,8 @@ Contributions are welcome! Please create an issue or submit a pull request if yo
 
 ## Author
 
-- Your Name
-- GitHub: [YourUsername](https://github.com/YourUsername)
+- Muhammad Saad
+- GitHub: [M-Saaad](https://github.com/M-Saaad)
 ```
 
 Make sure to replace placeholders like `YourUsername` with your actual GitHub username, and you can also customize the content to match the specifics of your project.
