@@ -1,6 +1,3 @@
-Certainly, here's a block of code that you can copy and paste into your `README.md` file:
-
-```markdown
 # Stock Key Executive Image Scraper
 
 ![GitHub](https://img.shields.io/github/license/YourUsername/Stock-Executive-Scraper)
