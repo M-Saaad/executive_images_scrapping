@@ -83,6 +83,3 @@ Contributions are welcome! Please create an issue or submit a pull request if yo
 
 - Muhammad Saad
 - GitHub: [M-Saaad](https://github.com/M-Saaad)
-```
-
-Make sure to replace placeholders like `YourUsername` with your actual GitHub username, and you can also customize the content to match the specifics of your project.
